@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-https://miloweimo.github.io/article/sitemap.xml
+Sitemap: https://miloweimo.github.io/article/sitemap.xml
