@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://miloweimo.github.io/article/fastfetch/</loc>
+    
+    <lastmod>2026-07-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://miloweimo.github.io/article/RBAC%E6%9D%83%E9%99%90%E6%A8%A1%E5%9E%8B/</loc>
+    
+    <lastmod>2026-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://miloweimo.github.io/article/archlinux_mirror_list/</loc>
+    
+    <lastmod>2026-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://miloweimo.github.io/article/kitty%E7%BB%88%E7%AB%AF/</loc>
+    
+    <lastmod>2026-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://miloweimo.github.io/article/ZeroOmegaInit/</loc>
     
     <lastmod>2026-07-06</lastmod>
@@ -713,6 +749,15 @@
   </url>
   
   <url>
+    <loc>https://miloweimo.github.io/article/GBA%E5%9C%A3%E9%82%AA%E7%9A%84%E6%84%8F%E5%BF%97%E9%87%91%E6%89%8B%E6%8C%87/</loc>
+    
+    <lastmod>2020-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://miloweimo.github.io/article/%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AAnodejs%E9%A1%B9%E7%9B%AE/</loc>
     
     <lastmod>2019-09-15</lastmod>
@@ -732,8 +777,8 @@
   
 
   <url>
-    <loc>https://miloweimo.github.io/article</loc>
-    <lastmod>2026-07-08</lastmod>
+    <loc>https://miloweimo.github.io/article/</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -743,28 +788,28 @@
   
   <url>
     <loc>https://miloweimo.github.io/article/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://miloweimo.github.io/article/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://miloweimo.github.io/article/categories/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://miloweimo.github.io/article/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://miloweimo.github.io/article/categories/%E7%94%9F%E6%B4%BB/%E9%A5%AE%E9%A3%9F/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
